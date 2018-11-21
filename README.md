@@ -8,7 +8,7 @@ Pure CSS file icons for popular extensions
 [demo](https://colorswall.github.io/CSS-file-icons/)
 
 ## Usage
-Include `css-file-icons.css` to html or install via nom
+Include `css-file-icons.css` to html or install via npm
 ```
 npm i css-file-icons --save
 ```
